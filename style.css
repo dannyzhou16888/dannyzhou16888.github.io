@@ -1,0 +1,57 @@
+p,
+li,
+h2,h3, h4 {
+  color: rgb(5, 5, 5);
+}
+body {
+  /* The image used */
+  background-image: url("./圖片/148870586_fb-link.jpg");
+  /* Full height */
+  height: 100%;
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+h2 {
+  font-size: 20px;
+
+  margin: 0;
+  
+
+}
+
+h1 {
+  font-size: 100px;
+  text-align: center;
+  margin: 0;
+  padding: 0px 0;
+  color: #2E4053;
+  text-shadow: 3px 3px 1px black;
+}
+
+h3 {
+  font-size: 20px;
+
+  margin: 0;
+  
+
+}
+
+h4 {
+  font-size: 20px;
+
+  margin: 0;
+  
+
+}
+
+
+
+img {
+  height: 350px;
+  display: block;
+  margin: 0 auto;
+}
